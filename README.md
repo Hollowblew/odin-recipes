@@ -1,1 +1,1 @@
-# odin-recipes
+# In this project well create a project with links, basic but in a future we will make more bueaty with css.
